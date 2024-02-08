@@ -6,6 +6,7 @@
 
 ![Speluca GitHub stats](https://github-readme-stats.vercel.app/api?username=speluca&show_icons=true&theme=dark)
 
+
 ## Tecnologias que utilizo no meu dia
 
 <div style="display: inline_block"><br/>
