@@ -1,25 +1,33 @@
+<!-- HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=180&section=header&text=Pedro%20Lucas&fontSize=35&fontColor=ffffff"/>
 </div>
 
+<!-- TITLE -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=Friendly+Neighborhood+Developer;React+%7C+Gamification+%7C+AI;With+great+power+comes+great+responsibility." />
 </div>
 
+<br/>
+
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
-🕷️ Estudante de Ciência da Computação  
-🎮 Desenvolvendo um TCC sobre **gamificação no ensino**  
-⚛️ Focado em **React e desenvolvimento web**  
-🧠 Explorando **IA e sistemas inteligentes**
+🕷️ Computer Science student  
+🎮 Currently working on a thesis about **gamification in education**  
+⚛️ Focused on **React and web development**  
+🧠 Exploring **AI and intelligent systems**
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzU3bnUwdTVubXF3MHNuc3l5cHgya2EwZ2N6aXd0OTRqY2xscHp5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OCqWD6mIrcMQl5YQUB/giphy.gif" width="220px"/>
 </div>
 
-## 🌐 Contato
+<br/>
+
+---
+
+## 🌐 Contact
 
 <div align="center">
 
@@ -29,9 +37,11 @@
 
 </div>
 
+<br/>
+
 ---
 
-## ⚙️ Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -43,25 +53,35 @@
 
 </div>
 
+<br/>
+
 ---
-## 📊 Estatísticas
+
+## 📊 Stats
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=speluca&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0D1117&cache_seconds=1800"/>
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=speluca&layout=compact&title_color=FF0000&text_color=FFFFFF&bg_color=0D1117&cache_seconds=1800"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=speluca&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0D1117&cache_seconds=1800"/><img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=speluca&layout=compact&title_color=FF0000&text_color=FFFFFF&bg_color=0D1117&cache_seconds=1800"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 🕸️ Status do Herói
+## 🕸️ Hero Status
 
 ```txt
 Alias      → Friendly Neighborhood Dev
 Class      → Full-Stack
-XP         → Em progresso
+XP         → In progress
 Main Skill → React + Gamification
-Side Quest → IA aplicada ao ensino
-Status     → Sempre responsivo.
+Side Quest → AI applied to education
+Status     → Always responsive.
+```
+<br/>
+<div align="center">
+
+“With great projects come great commits.” 🕷️
+
+</div>
