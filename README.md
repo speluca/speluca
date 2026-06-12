@@ -77,20 +77,24 @@ const pedro = {
 
 ---
 
-## 🕸️ Hero Status
+## ⚔️ Skill Tree
 
-```txt
-╔══════════════════════════════════════════╗
-║            HERO PROFILE                  ║
-╠══════════════════════════════════════════╣
-║  Alias      →  Friendly Neighborhood Dev ║
-║  Class      →  Full-Stack                ║
-║  XP         →  In progress...            ║
-║  Main Skill →  React + Gamification      ║
-║  Side Quest →  AI applied to education   ║
-║  Status     →  Always responsive.        ║
-╚══════════════════════════════════════════╝
-```
+<div align="center">
+
+| Skill | Progress |
+|:------|:---------|
+| HTML & CSS | `█████████░` **Lv 9** |
+| JavaScript | `████████░░` **Lv 8** |
+| TypeScript | `███████░░░` **Lv 7** |
+| React | `████████░░` **Lv 8** |
+| Next.js | `████░░░░░░` **Lv 4** *(desbloqueando)* |
+| Python | `████░░░░░░` **Lv 4** *(desbloqueando)* |
+| Gamification | `█████████░` **Lv 9** |
+| Applied AI | `█████░░░░░` **Lv 5** |
+
+*`// níveis são subjetivos — honestidade > hype`*
+
+</div>
 
 ---
 
